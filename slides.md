@@ -1,14 +1,14 @@
 
 class: center, middle
 
-<img src="images/escience.png" width=350>
+<img src="images/escience.png" width=500>
 
-# Why I teach Software Carpentry
-### And why you might too
+# Software Carpentry
+### and the democratization of data science
 ## Ariel Rokem
 ### The University of Washington eScience Institute
 
-<small>Follow along at: <a href="https://arokem.github.io/2016-12-06-why-swc">https://arokem.github.io/2016-12-06-why-swc</small>
+<small>Follow along at: <a href="https://arokem.github.io/2017-03-01-swc-dsswg">https://arokem.github.io/2017-03-01-swc-dsswg</small>
 
 ---
 
@@ -19,35 +19,7 @@ layout: true
 
 ---
 
-### Who am I?
---
-
-<image src="images/huji-logo.png" height=100px> I am originally from West Jerusalem, Israel
-
-???
-I come from West Jerusalem, in Israel. In college, at the Hebrew University, I studied Biology and Psychology. This education provided a basis for my interest in interdisciplinary work and for graduate school...
---
-
-<image src="images/berkeley-logo.png" height=100px> Ph.D. In neuroscience
-
-???
-...I came to the United States, and studied, at the University of California, Berkeley
---
-
-<image src="images/stanford-logo.png" height=100px> Research experience in computational neuroimaging
-
-???
-After graduate school, I spent a few years conducting research in computational neuroimaging, as a post-doc at Stanford.
---
-
- <image src="images/scipy-logo.png" height=100px> <image src="images/nipy-logo.png" height=100px> Open source software development
-
-???
-In graduate school, I started developing open-source software for computational neuroimaging, and became part of a community called "NIPY" (or neuroimaging in Python), which uses the Python programming language to develop open-source tools for analysis of data from human neuroimaging.
-
----
-
-# What is Software Carpentry
+# Software Carpentry
 
 --
 
@@ -71,135 +43,105 @@ In graduate school, I started developing open-source software for computational 
 
 ---
 
-### My SWC history
+# [The history](https://f1000research.com/articles/3-62/v2)
+
+Greg Wilson and Brent Gorda started it in 1998. The first version was a week-long workshop held at LANL.
+
+The program focuses on tools and techniques that are considered standard practice in the software industry:
 
 --
 
-- I knew about the (Matlab!) materials while in grad school
+- Version control
 
 --
 
-- First time I helped was in 2011 (12?)
+- Automation with the Unix shell  
 
 --
 
-- Certified as an instructor in 2012
+- Data-base management (SQL)
 
 --
 
-- Instructor trainer since last year
+- Programming (usually taught with high-level languages, Python or R)
 
+---
+
+## But it's not "Software Engineering"
+
+"...careful documentation of requirements and lots of up-front design are not appropriate for people who (almost by definition) do not know what the right answer is yet..."
+
+--
+
+- Computer Science: this is basic material that is too easy to deserve a graduate credit.
+
+- Other departments: courses like this ought to be offered by Computer Science departments.
+
+---
+
+# Further history
+
+- In 2012, settled on the 2-day workshop format still used today.
+
+- In 2014, joined NumFocus as a non-profit
+  - Democratically elected steering committee
+  - Managed as a distributed open-source <strike> software </strike> educational project
+
+---
+
+# Data Carpentry
+
+- Also started in 2014.
+
+- Focus is on data management and analysis.
+
+---
+
+# Number of workshops
+
+<img src="images/workshops.png" width=500>
 
 
 ---
 
-## Why do I do it?
+# Number of learners
 
---
-
-- "Self defense"
-
---
-
-- Best way to learn is by teaching
-
---
-
-- Teaching is also fun!
-
---
-
-- I care about the standards of my field
-
---
-
-- When I was a post-doc, I enjoyed the travel
-
---
-
-- Brought me to places I wanted to go for career reasons
-
---
-
-- But also places I just wanted to visit!
-
---
-
-- Amazing community of practice to be part of
-
---
-
-- And a tremendously useful network!
+<img src="images/learners.png" width=500>
 
 ---
 
-## Sign me up!
+# Does it work?
 
---
+Two separate assessments done in 2012 found:
 
-### What's next?
+- Participants computational understanding increased more than two-fold (as measured in test scores)
 
---
-
-If you have never attended a  SWC workshop, come join one as a helper!
-
---
-
-**January 9th - 12th**
-
---
-
-If you've helped, come and teach!
-
---
-
-**March 27th-28th**
-
---
-
-Either way: sign up for the mailing lists:
-
-http://lists.software-carpentry.org/
+- Participants expressed high satisfaction (85% learned what they hoped to learn; 95% would recommend the workshop to others).
 
 ---
 
-## Do you want to get certified as a SWC instructor?
+# An aspiration towards diversity
 
---
+Workshops focused on women in science, engineering in medicine, since 2013
 
-What it entails:
+Other attempts focus on geographical diversity, with some limited reach in South
+America, South Africa.
 
-- 2-day Instructor training workshop (some time in Spring 2017?)
-
-- A couple of small follow-up assignments
-
---
-
-[The curriculum](http://swcarpentry.github.io/instructor-training/):
-
-- Introduce participants to a handful of key research findings and show how they can be used to help people learn better and faster.
-
-- Introduce participants to the teaching practices that have been adopted by the Software and Data Carpentry communities, and the overall philosophy and procedures of both organizations in order to prepare them to teach at Software and Data Carpentry workshops.
+This is still a challenge
 
 ---
 
-## Potential benefits:
+# Instructors as agents of change
 
---
+- Instructor training program that follows the same pattern of the SWC workshops
 
-- To run SWC workshops, there needs to be one certified instructor
+- Two-day workshop, focused on topics from educational psychology and the unique instruction practices of SWC.
 
---
+---
 
-- You can be that person in your next position
+# We are legion
 
---
-
-- Something to write in your teaching statement.
-
---
-
-- Learn some useful things about teaching?
+<img src="images/instructors.png" width=500>
 
 ---
 

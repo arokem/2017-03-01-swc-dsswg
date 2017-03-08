@@ -30,7 +30,7 @@ Barone, Williams, and Micklo
 
 # Unmet needs
 
-<img src="images/barone_fig3.png" width=500>
+<img src="images/barone_fig3.png" width=650>
 
 ---
 

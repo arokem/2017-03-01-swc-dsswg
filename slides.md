@@ -19,6 +19,22 @@ layout: true
 
 ---
 
+# The context
+
+["Unmet Needs for Analyzing Biological Big Data: A Survey of 704 NSF Principal Investigators"](http://biorxiv.org/content/early/2017/02/15/108555)
+
+Barone, Williams, and Micklo
+
+
+---
+
+# Unmet needs
+
+<img src="images/barone_fig3.png" width=500>
+
+---
+
+
 # Software Carpentry
 
 --
